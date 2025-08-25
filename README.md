@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [Halonix.dev](http://www.Halonix.dev)
 
-- 📫 [Send a message](mfawadshah2@gmail.com)
+- 📫 Send a message at **mfawadshah2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
