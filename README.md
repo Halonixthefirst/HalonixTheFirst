@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **A leetcode Problem Tracker**
 
-- 📝 I regularly write articles on [http://www.Halonix.dev](http://www.Halonix.dev)
+- 📝 I regularly write articles on [Halonix.dev](http://www.Halonix.dev)
 
-- 📫 How to reach me **mfawadshah2@gmail.com**
+- 📫 [Send a message](mfawadshah2@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
