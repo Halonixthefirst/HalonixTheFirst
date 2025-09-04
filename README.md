@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A leetcode Problem Tracker**
 
-- 📝 I regularly write articles on [Halonix.dev](http://www.Halonix.dev)
+- 📝 I "regularly" write articles on [Halonix.dev](http://www.Halonix.dev)
 
 - 📫 Send a message at **mfawadshah2@gmail.com**
 
